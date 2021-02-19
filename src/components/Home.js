@@ -49,7 +49,7 @@ const H1 = styled.h1`
 
 const Home = () => (
 	<Container imgUrl={sfondo}>
-		<Button1 href='https://www.instagram.com/tv/CK7MC3Fsrys/?utm_source=ig_web_copy_link'>
+		<Button1 href='https://www.youtube.com/channel/UC2XNU54hQLacLN89_z2xkeA'>
 			<Img src={youtube} alt="Error"/>	
 		</Button1>
 		<Button2 href='https://open.spotify.com/artist/4jpSaw00mW1r415vcQUDNQ?si=LZT9dc_cRcaGwYu5hFHF5Q'>
